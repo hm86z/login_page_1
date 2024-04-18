@@ -2,7 +2,8 @@ import 'package:animate_do/animate_do.dart';
 import 'package:flutter/material.dart';
 
 
-///https://github.com/hm86z/login_page_1
+
+///https://www.tiktok.com/@professional__programmer
 
 void main() {
   runApp(const MyApp());
@@ -188,7 +189,7 @@ class MyApp extends StatelessWidget {
 
                                  SizedBox(height: 40,),
 
-                                 Text('Developed by hamza Alzibaq',
+                                 Text('Developed by Hamza Alzibaq',
                                    style: TextStyle(
                                        color: primaryColor, fontWeight: FontWeight.w900
                                    ),
