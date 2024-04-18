@@ -1,6 +1,9 @@
 import 'package:animate_do/animate_do.dart';
 import 'package:flutter/material.dart';
 
+
+///https://github.com/hm86z/login_page_1
+
 void main() {
   runApp(const MyApp());
 }
@@ -171,7 +174,7 @@ class MyApp extends StatelessWidget {
                       ),
 
                       const SizedBox(height: 70,),
-27:47
+
                       FadeInUp(
                           duration: const Duration(milliseconds: 2200),
                           child:
